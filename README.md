@@ -1,7 +1,10 @@
 # Human-Booster-Examen | PHP-ProjetDamienLebon
 
+## Accès admin Lucas !
+#### "email" => "chmod777@gmail.com" | "password" => "coucou"
+
 ## Get started
-#### Accès admin Lucas ! "email" => "chmod777@gmail.com" | "password" => "coucou"
+
 
 #### Comment récuperer la base de données avec ses données ?
 Tu pourras trouver le fichier .sql avec la bdd avec toutes ses données dans le dossier /config, voir l'image ci-dessous :
