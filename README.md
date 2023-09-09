@@ -1,4 +1,14 @@
 # Human-Booster-Examen | PHP-ProjetDamienLebon
+## Ce qui a été vu en cours :
+- Tableaux
+- Inclusion de fichiers
+- Variables superglobales
+- Formulaires
+- Programmation orientée objet
+- Sessions
+- Upload de fichiers avec PHP
+- Bases de données - PDO
+
 ## Examen : Objectif du projet => Validation des acquis qui ont été vu en cours
 - Créer une solution web qui permet de fournir une interface aux utilisateurs pour consulter,télécharger et uploader des samples en format audio(mp3,wav,etc.).  (OK)
 - Permettre à l'utilisateur de pouvoir s'inscrire et se connecter. (OK)
