@@ -12,4 +12,7 @@ Tu pourras trouver le fichier .sql avec la bdd avec toutes ses données dans le 
 ![image](https://github.com/DamienL97r/PHP-ProjetDamienLebon/assets/117284330/8f78093d-9c5e-4ce1-87ba-2516dfcffdeb)
 
 
-
+## Insécurités détectées
+#### Les doubles extensions
+Si j'ajoutes un un fichier test.txt.mp3, ça fonctionne pour mon algo et mon application mais ce n'est pas sécuritaire... Je n'arrives pas exclure ce problème. (Comment faire ? Car ça peut être une entrée exploitable...)
+![image](https://github.com/DamienL97r/PHP-ProjetDamienLebon/assets/117284330/d08027a0-9a2e-4844-aa14-6676a04a69ff)
