@@ -22,7 +22,11 @@ Tu pourras trouver le fichier .sql avec la bdd avec toutes ses données dans le 
 ![image](https://github.com/DamienL97r/PHP-ProjetDamienLebon/assets/117284330/8f78093d-9c5e-4ce1-87ba-2516dfcffdeb)
 
 ## Voies d'améliorations
-#### REGEX pour les passwords (en cours)
+#### REGEX pour les passwords: Pas efficace pour le moment: voici le code qui est "censé fonctionné" :
+![image](https://github.com/DamienL97r/PHP-ProjetDamienLebon/assets/117284330/4771f939-5c5c-4ea5-8419-a8351976d714)
+
+
+
 #### Les doubles extensions
 Si j'ajoutes un fichier test.txt.mp3, ça fonctionne pour mon algo et mon application mais ce n'est pas sécuritaire... Je n'arrives pas à exclure ce problème. (Comment faire ? Car ça peut être une entrée exploitable...)
 ![image](https://github.com/DamienL97r/PHP-ProjetDamienLebon/assets/117284330/d08027a0-9a2e-4844-aa14-6676a04a69ff)
