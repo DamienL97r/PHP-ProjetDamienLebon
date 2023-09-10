@@ -16,6 +16,7 @@
 - Mise en place d'un espace administrateur (OK)
 - Créer un espace administrateur où l'on peut CRUD toutes les données mises à dispositions. (!OK : CRUD incomplet. 'status-actuel' => CR)
 - Créer un système de recherche par catégories, mais c'est pas complètement fonctionnel. (cf. index.php)
+- Autoriser l'accès aux pages "admin" uniquement aux administrateurs.
 ## Accès admin Lucas !
 #### "email" => "chmod777@gmail.com" | "password" => "coucou"
 
@@ -27,8 +28,8 @@ Tu pourras trouver le fichier .sql avec la bdd avec toutes ses données dans le 
 ## Voies d'améliorations
 #### Interface administrateur :
 - CRUD incomplet :
-- Je n'ai pas eu le temps de mettre en place les informations générales sur le site (nb de samples, nb de catégories et le nombre d'utilisateurs)
-![image](https://github.com/DamienL97r/PHP-ProjetDamienLebon/assets/117284330/cb2d354a-7dcf-47f7-8030-ca9a2b008514)
+- Je n'ai pas eu le temps de mettre en place les informations générales sur la page admin.php (nb de samples, nb de catégories et le nombre d'utilisateurs)
+![image](https://github.com/DamienL97r/PHP-ProjetDamienLebon/assets/117284330/888fb7a1-2c8f-4ef0-a860-36d507c3b569)
 
 #### Identifier un sample par rapport à l'utilisateur qui l'aurai uploadé
 #### Système de recherche :
