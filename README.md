@@ -12,10 +12,10 @@
 ## Examen : Objectif du projet =>
 - Créer une solution web qui permet de fournir une interface aux utilisateurs pour consulter,télécharger et uploader des samples en format audio(mp3,wav,etc.).  (OK)
 - Créer un espace mon compte où l'utilisateur, une fois connecté, peut consulter son profil ainsi que ses données personnelles. (OK mais CRUD non effectif : only Read)
-- Permettre à l'utilisateur de pouvoir s'inscrire et se connecter. (OK)
+- Permettre à l'utilisateur de pouvoir s'inscrire et se connecter. (OK avec vérification mail et password sans le REGEX)
 - Mise en place d'un espace administrateur (OK)
 - Créer un espace administrateur où l'on peut CRUD toutes les données mises à dispositions. (!OK : CRUD incomplet. 'status-actuel' => CR)
-- Créer un système de recherche par catégories, mais c'est pas complètement fonctionnel. (cf. index.php)
+- Créer un système de recherche par catégories, mais c'est pas complètement fonctionnel.
 - Autoriser l'accès aux pages "admin" uniquement aux administrateurs.
 
 ## Get started
