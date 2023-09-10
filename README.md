@@ -1,4 +1,4 @@
-# Human-Booster-Examen | PHP-ProjetDamienLebon
+# Human-Booster-Examen | PHP-ProjetDamienLebon --- tout le contenu est sur Main branch
 ## Ce qui a été vu en cours :
 - Tableaux
 - Inclusion de fichiers
@@ -17,10 +17,10 @@
 - Créer un espace administrateur où l'on peut CRUD toutes les données mises à dispositions. (!OK : CRUD incomplet. 'status-actuel' => CR)
 - Créer un système de recherche par catégories, mais c'est pas complètement fonctionnel. (cf. index.php)
 - Autoriser l'accès aux pages "admin" uniquement aux administrateurs.
-## Accès admin Lucas !
-#### "email" => "chmod777@gmail.com" | "password" => "coucou"
 
 ## Get started
+### Accès admin Lucas !
+#### "email" => "chmod777@gmail.com" | "password" => "coucou"
 #### Comment récuperer la base de données avec ses données ?
 Tu pourras trouver le fichier .sql avec la bdd avec toutes ses données dans le dossier /config, voir l'image ci-dessous :
 ![image](https://github.com/DamienL97r/PHP-ProjetDamienLebon/assets/117284330/8f78093d-9c5e-4ce1-87ba-2516dfcffdeb)
