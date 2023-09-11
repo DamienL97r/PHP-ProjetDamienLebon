@@ -17,6 +17,7 @@
 - Créer un espace administrateur où l'on peut CRUD toutes les données mises à dispositions. (!OK : CRUD incomplet. 'status-actuel' => CR)
 - Créer un système de recherche par catégories, mais c'est pas complètement fonctionnel.
 - Autoriser l'accès aux pages "admin" uniquement aux administrateurs.
+- Upload de fichiers avec $_FILES (OK)
 
 ## Get started
 ### Accès admin Lucas !
